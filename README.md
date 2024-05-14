@@ -1,4 +1,4 @@
-# Gemini Chef
+# Gemini Chatbot
 > Simple webapp to suggest recipes built with IDX + Geimini APIs
 
 This web application utilizes Gemini APIs to generate recipe suggestions based on the ingredients available in your refrigerator. Built with [IDX](https://idx.dev/).
@@ -8,7 +8,7 @@ This web application utilizes Gemini APIs to generate recipe suggestions based o
 __Clone the repository:__
 
 ```bash
-git clone https://github.com/hemanth/gemini-idx-chef.git
+git clone https://github.com/teambracketsindia/InnoveEnergy.git
 ```
 
 __Install the dependencies:__
