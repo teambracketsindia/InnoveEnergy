@@ -21,7 +21,7 @@ npm install
 __Run the application:__
 
 ```bash
-npm run dev
+node server.js
 ```
 
 __Open the browser:__
